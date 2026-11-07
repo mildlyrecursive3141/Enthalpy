@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/HeaderLightTransparent.png" alt="Logo"
+  <img src="assets/HeaderDark.png" alt="Logo"
     </p> 
 
 ## Enthalpy is laboratory management software built around one idea: a lab is only as reliable as its records. It gives every lab member a single place to log observations, track equipment and calibration schedules, manage consumables and inventory, and keep a complete, tamper-evident audit trail, all without forcing the lab into a rigid, one-size-fits-all workflow. It runs on your own server, so your data stays under your control, and it is open to any lab, from a single research bench to a multi-team facility.
